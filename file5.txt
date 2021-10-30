@@ -1,0 +1,11 @@
+courseid,coursename
+121,python
+35123,aws
+626,blockchain
+1911,azure
+33211,machine learning
+99211,data science
+76,software testing
+11,powerbi
+1234,mongodb
+4,artificial intelligence
